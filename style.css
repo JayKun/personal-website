@@ -181,6 +181,10 @@ a:-webkit-any-link {
       font-size: 50px;
   }
 
+  #skills .long{
+    padding-top: 20px;
+  }
+
   .round-border{
       border-radius: 100%;
 
