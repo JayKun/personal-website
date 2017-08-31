@@ -11,12 +11,20 @@ body {
       margin-bottom: 30px;
   }
 
+  h1{
+    color: #d4e1f7;
+  }
+
   #projects h2{
       font-size: 24px;
       text-transform: uppercase;
       color: #fff;
       font-weight: 600;
       margin-bottom: 30px;
+  }
+
+  p{
+    font-size: 16px;
   }
 
   h4 {
@@ -262,7 +270,6 @@ a:-webkit-any-link {
   #projects button{
     width: 120px;
   }
-
 
   footer{
     background-image: url('blue.jpg');
