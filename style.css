@@ -303,7 +303,9 @@ a:-webkit-any-link {
       visibility: visible;
   }
 
-
+  a { 
+    color: white; 
+  } 
 
 
 
