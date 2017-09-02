@@ -154,11 +154,6 @@ body {
       background-color: #00b7c7;
   }
   
- a{
-    cursor: auto;
-    text-decoration: none;
-}
-
 
 
 
@@ -302,7 +297,7 @@ body {
       visibility: visible;
   }
 
-  a { 
+  footer a { 
     color: white; 
   } 
 
