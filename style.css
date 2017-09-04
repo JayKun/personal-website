@@ -136,9 +136,14 @@ body {
       color: #d2d0e5;
   }
 
-
-
-
+  #about p {
+      text-align: justify;
+      text-justify: inter-word;
+  }
+  
+  #about img{
+      width: 100% !important;
+  }
   #github, #resume{
       background-color: #154696;
   }
@@ -154,11 +159,6 @@ body {
       background-color: #00b7c7;
   }
   
- a{
-    cursor: auto;
-    text-decoration: none;
-}
-
 
 
 
@@ -302,7 +302,7 @@ body {
       visibility: visible;
   }
 
-  a { 
+  footer a { 
     color: white; 
   } 
 
