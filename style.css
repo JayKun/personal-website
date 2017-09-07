@@ -274,7 +274,7 @@ body {
   }
 
 
-  #projects button{
+  #projects button.btn-info{
     width: 120px;
   }
 
